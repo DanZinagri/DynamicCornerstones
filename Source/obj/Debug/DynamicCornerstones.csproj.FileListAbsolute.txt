@@ -1,0 +1,5 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\DynamicCornerstones\Assemblies\DynamicCornerstones.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\DynamicCornerstones\Source\obj\Debug\DynamicCornerstones.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\DynamicCornerstones\Source\obj\Debug\DynamicCornerstones.GeneratedMSBuildEditorConfig.editorconfig
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\DynamicCornerstones\Source\obj\Debug\DynamicCornerstones.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\DynamicCornerstones\Source\obj\Debug\DynamicCornerstones.dll

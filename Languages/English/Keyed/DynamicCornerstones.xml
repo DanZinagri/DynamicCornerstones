@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DynCS.ModTitle>Dynamic Cornerstones</DynCS.ModTitle>
+
+  <!-- Settings window -->
+  <DynCS.RestartNote>Changes take effect after restarting the game.</DynCS.RestartNote>
+  <DynCS.Filter>Filter</DynCS.Filter>
+  <DynCS.ExpandAll>Expand all</DynCS.ExpandAll>
+  <DynCS.CollapseAll>Collapse all</DynCS.CollapseAll>
+  <DynCS.EnableAll>Enable all</DynCS.EnableAll>
+  <DynCS.DisableAll>Disable all</DynCS.DisableAll>
+  <DynCS.ResetSliders>Reset sliders</DynCS.ResetSliders>
+  <DynCS.ExistingCornerstones>Existing cornerstones (100% = Vanilla strength)</DynCS.ExistingCornerstones>
+  <DynCS.OtherCategory>Other</DynCS.OtherCategory>
+  <!-- {0} = current scale percentage -->
+  <DynCS.EffectScaleTip>Effect scale: {0} of the mod's vanilla values. 0% disables the effect (the cornerstone stays selectable).</DynCS.EffectScaleTip>
+
+  <!-- Generated cornerstone text. {0} = stat label, {1} = magnitude -->
+  <DynCS.EffectIncreasedBy>{0} is increased by {1} for everyone in the colony.</DynCS.EffectIncreasedBy>
+  <DynCS.EffectReducedBy>{0} is reduced by {1} for everyone in the colony.</DynCS.EffectReducedBy>
+  <DynCS.EffectOffset>{0} {1} for everyone in the colony.</DynCS.EffectOffset>
+  <!-- {0} is filled with the faction name later by VFE Tribals; {1} = stat label -->
+  <DynCS.Blurb>The people of {0} have shaped their traditions around {1}.</DynCS.Blurb>
+  <!-- Appended to rescaled authored cornerstones. {0} = scale multiplier -->
+  <DynCS.ScaledEffectNote>Effect scaled ×{0} by Dynamic Cornerstones.</DynCS.ScaledEffectNote>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Dynamic Cornerstones</name>
+  <author>DanZinagri</author>
+  <packageId>DanZinagri.DynamicCornerstones</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>OskarPotocki.VFE.Tribals</packageId>
+      <displayName>Vanilla Factions Expanded - Tribals</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3079786283</steamWorkshopUrl>
+      <downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3079786283</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>OskarPotocki.VFE.Tribals</li>
+  </loadAfter>
+  <description>Automatically generates a VFE Tribals cornerstone for every pawn stat loaded in your game - vanilla, DLC and modded stats alike.</description>
+</ModMetaData>

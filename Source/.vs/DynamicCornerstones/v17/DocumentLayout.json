@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\DynamicCornerstones\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54F14ED-BB99-9150-2D1F-3919FE36297E}|DynamicCornerstones.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\dynamiccornerstones\\source\\cornerstonegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54F14ED-BB99-9150-2D1F-3919FE36297E}|DynamicCornerstones.csproj|solutionrelative:cornerstonegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54F14ED-BB99-9150-2D1F-3919FE36297E}|DynamicCornerstones.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\dynamiccornerstones\\source\\dynamiccornerstonesmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54F14ED-BB99-9150-2D1F-3919FE36297E}|DynamicCornerstones.csproj|solutionrelative:dynamiccornerstonesmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54F14ED-BB99-9150-2D1F-3919FE36297E}|DynamicCornerstones.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\dynamiccornerstones\\source\\cornerstonerulesdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54F14ED-BB99-9150-2D1F-3919FE36297E}|DynamicCornerstones.csproj|solutionrelative:cornerstonerulesdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CornerstoneRulesDef.cs",
+              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\DynamicCornerstones\\Source\\CornerstoneRulesDef.cs",
+              "RelativeDocumentMoniker": "CornerstoneRulesDef.cs",
+              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\DynamicCornerstones\\Source\\CornerstoneRulesDef.cs",
+              "RelativeToolTip": "CornerstoneRulesDef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T08:41:58.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicCornerstonesMod.cs",
+              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\DynamicCornerstones\\Source\\DynamicCornerstonesMod.cs",
+              "RelativeDocumentMoniker": "DynamicCornerstonesMod.cs",
+              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\DynamicCornerstones\\Source\\DynamicCornerstonesMod.cs",
+              "RelativeToolTip": "DynamicCornerstonesMod.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAgwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T05:34:11.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CornerstoneGenerator.cs",
+              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\DynamicCornerstones\\Source\\CornerstoneGenerator.cs",
+              "RelativeDocumentMoniker": "CornerstoneGenerator.cs",
+              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\DynamicCornerstones\\Source\\CornerstoneGenerator.cs",
+              "RelativeToolTip": "CornerstoneGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T05:34:10.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
