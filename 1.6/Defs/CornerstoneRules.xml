@@ -40,6 +40,7 @@
       <li>SlaveSuppressionFallRate</li>
       <li>PsychicEntropyGain</li>
       <li>HungerRateMultiplier</li>
+      <li>EBSG_HungerRateFactor</li>
     </useNegativeValue>
 
     <!-- Stats never offered as cornerstones. Unknown defNames are harmless: they simply never match, so entries for inactive mods can stay. -->
